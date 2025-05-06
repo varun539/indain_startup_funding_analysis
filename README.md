@@ -9,7 +9,7 @@ The goal of this project is to understand how startups in India are being funded
 ## 📁 Dataset
 
 - Dataset Name: `indian_startup_funding.csv`
-- Source: Public dataset (Kaggle or open source)
+- Source: Public dataset (Kaggle )
 - Records: 5000+ entries of startup funding details
 
 ## 🧰 Tools & Libraries Used
@@ -36,8 +36,7 @@ The goal of this project is to understand how startups in India are being funded
 
 - Bar charts of funding per industry and investor
 - Line graphs of year-wise trends
-- Interactive dashboards (optional add-on using Streamlit or Plotly)
-
+- Interactive dashboards 
 ## 🔍 Insights
 
 - Which industries attract the most capital?
