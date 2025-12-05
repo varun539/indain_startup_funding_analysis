@@ -1,5 +1,7 @@
 🚀 Indian Startup Funding Analysis (2015–2021)
 
+
+
 Project Type: Data Analysis & Visualization
 Domain: Indian Startup Ecosystem
 Tech Stack: Python, Pandas, NumPy, Matplotlib, Seaborn
@@ -10,6 +12,10 @@ This project analyzes the Indian startup funding landscape (2015–2021) to unco
 The goal is to generate data-driven insights useful for investors, founders, and market researchers.
 
 🎯 Objectives
+
+
+
+
 
 ✅ Analyze year-wise funding trends
 ✅ Identify top-funded startups & funding types
@@ -28,6 +34,11 @@ Funding slowdown in 2021 (~$2.88B)
 
 Insight: India's startup ecosystem saw exponential growth, driven by large late-stage deals.
 
+
+
+
+
+
 🚀 2️⃣ Top Funded Startups
 Startup	Total Funding
 Flipkart	$5.96B
@@ -38,6 +49,10 @@ Ola	$0.98B
 
 Insight:
 E-commerce and FinTech dominate, while EdTech & mobility startups show fast adoption.
+
+
+
+
 
 🏭 3️⃣ Industry-wise Funding
 Industry	Total Funding
@@ -65,9 +80,9 @@ Kalaari Capital
 Biggest by Capital Invested:
 
 Investor	Total Investment
-Westbridge Capital	$3.90B
-SoftBank	$3.55B
-Tiger Global	$2.83B
+Westbridge Capital    	$3.90B
+SoftBank	    $3.55B
+Tiger Global     	$2.83B
 
 Insight:
 Both global & domestic VCs drive startup growth in India.
@@ -84,12 +99,12 @@ Insight:
 India’s ecosystem is both scaling aggressively & nurturing early innovation.
 
 🌍 6️⃣ City-wise Funding
-City	Total Funding	# of Startups
-Bengaluru	$23.21B	634
-Mumbai	$4.53B	—
-Gurugram	$4.47B	—
-Delhi	$3.35B	—
-Pune / Noida	~$1B each	—
+City                       	T    otal Funding	
+Bengaluru	                         $23.21B
+Mumbai	                           $4.53B	—
+Gurugram	                         $4.47B	—
+Delhi	                             $3.35B	—
+Pune / Noida	                    ~$1B each	—
 
 Insight:
 Bengaluru is the startup capital of India, while NCR & Mumbai remain key hubs.
@@ -136,8 +151,9 @@ Run all cells to reproduce analysis and charts.
 👨‍💻 Author
 
 Varun B
-B.Tech Data Science – Lovely Professional University
+Data Science Student 
 
 🔗 GitHub: https://github.com/varun539
+
 
 🌐 Portfolio: https://varun539.github.io/portfolio/
